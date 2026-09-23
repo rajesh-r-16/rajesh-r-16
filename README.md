@@ -29,7 +29,7 @@ Interests:
   - Machine Learning
   - Full Stack Development
   - Cloud Computing
-  - Cybersecurity
+  - Data Analyst
   - Open Source
 
 Currently Learning:
