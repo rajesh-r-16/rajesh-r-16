@@ -206,35 +206,6 @@ Problem Solving       ██████████████ 90%
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-r-16&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajesh-r-16&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rajesh-r-16/rajesh-r-16/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 🎯 2026 Goals
 
