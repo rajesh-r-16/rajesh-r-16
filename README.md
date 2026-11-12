@@ -171,13 +171,13 @@ Python                ██████████████ 90%
 
 Machine Learning      █████████████ 85%
 
-Data Analyst       ███████████ 75%
+Data Analyst          ███████████ 75%
 
 SQL / DBMS            ████████████ 80%
 
 Linux                 ██████████ 70%
 
-Cloud Computing         █████████ 65%
+Cloud Computing       █████████ 65%
 
 Problem Solving       ██████████████ 90%
 ```
