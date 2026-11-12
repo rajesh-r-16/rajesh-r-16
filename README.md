@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rajesh R
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Cloud+Computing+Learner;Cybersecurity+Explorer;Building+Technology+for+Real+World+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Data+Analyst+Explorer;Building+Technology+for+Real+World+Problems" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rajesh-r-16&label=Profile+Views&color=0e75b6&style=flat" />
